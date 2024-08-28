@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329885876123",
+    "project_id": "vrix-7240b",
+    "storage_bucket": "vrix-7240b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329885876123:android:3fe6f8c60dbf747c4e6b3e",
+        "android_client_info": {
+          "package_name": "com.example.pos_riverpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KDX5bthehhq8MpTO4ixEbhfGsVOSWbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
